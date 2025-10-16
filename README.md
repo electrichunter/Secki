@@ -1,17 +1,6 @@
 <div align="center">
 
-  <a href="https://github.com/electrichunter/secki">
-    <img src="https://raw.githubusercontent.com/electrichunter/secki/main/assets/secki_banner.png" alt="Seçki Banner">
-  </a>
-
-  <pre>
-    ____            _      _   
-   / __ \          | |    | |  
-  | |  | | ___  ___| | __ | |_ 
-  | |  | |/ _ \/ __| |/ / | __|
-  | |__| |  __/ (__|   <  | |_ 
-   \___\_\\___|\___|_|\_\  \__|
-  </pre>
+ 
 
   ### Özenle Seç, Değer Kat.
   
